@@ -16,6 +16,8 @@
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
+---
+
 ## 🛠️ O que eu faço | What I Do
 
 - Automação de deploy com CI/CD (GitHub Actions, Azure DevOps, Drone CI)  
